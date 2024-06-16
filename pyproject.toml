@@ -14,7 +14,7 @@ pytz = "^2024.1"
 [tool.poetry.dev-dependencies]
 ipython = "^8.12.1"
 ipdb = "^0.13.13"
-colorama = "^0.4.5"
+colorama = "^0.4.6"
 black = "^23.12.1"
 pylint = "^3.2.3"
 isort = "^5.12.0"
