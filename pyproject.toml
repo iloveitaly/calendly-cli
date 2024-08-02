@@ -8,7 +8,7 @@ authors = ["Michael Bianco <mike@mikebian.co>"]
 python = "^3.8"
 click = "^8.1.7"
 PyCalendly = "^1.0.0"
-python-dotenv = "^1.0.0"
+python-dotenv = "^1.0.1"
 pytz = "^2024.1"
 
 [tool.poetry.dev-dependencies]
